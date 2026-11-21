@@ -1,7 +1,8 @@
 # Lab-to-Field Gap in Plant Disease Classification (PlantVillage → PlantDoc)
 
 Code for the paper **"Quantifying and Partially Mitigating the Lab-to-Field Gap in Plant Disease Classification with Lightweight CNNs"**
-Author : Fahad Bin Aref.
+ 
+ Author : Fahad Bin Aref.
 
 ## What this repository does
 Three lightweight CNNs (MobileNetV3-Large, EfficientNet-B0, ResNet18) are fine-tuned on **PlantVillage** and tested on
