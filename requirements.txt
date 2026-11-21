@@ -1,0 +1,14 @@
+# Package names only. The experiments were run on Kaggle (GPU notebook).
+# Before publishing, run `pip freeze | grep -iE "torch|timm|grad-cam|opencv|scikit-learn|scipy|pandas|numpy|matplotlib|pillow"`
+# in the Kaggle notebook and replace the lines below with the exact versions (e.g. torch==x.y.z).
+torch
+torchvision
+timm
+grad-cam
+opencv-python-headless
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
+pillow
